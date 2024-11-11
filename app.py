@@ -15,7 +15,7 @@ db_config = {
     'host': 'freshbasketdb.cza66aqeqs40.us-east-1.rds.amazonaws.com',  # Your RDS endpoint
     'user': 'admin',  # Your DB username
     'password': 'freshbasket',  # Your DB password
-    'database': 'fresh'
+    'database': 'freshbasketdb'
 }
 
 # Connection pool setup
